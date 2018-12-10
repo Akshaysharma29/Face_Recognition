@@ -1,5 +1,5 @@
 # Face_Recognition
-Face Recognition using opencv and opencv face rcognition module LBPH(Local Binary Pattern Histograms)
+Face Recognition using opencv and opencv face recognition module LBPH(Local Binary Pattern Histograms)
 
 Result :
 
